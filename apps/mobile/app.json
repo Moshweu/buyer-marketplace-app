@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "BuyerMatch",
+    "slug": "buyer-match",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": ["**/*"]
+  }
+}

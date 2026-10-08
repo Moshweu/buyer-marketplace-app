@@ -1,0 +1,21 @@
+{
+  "name": "@buyer-marketplace/api",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "tsx watch src/server.ts",
+    "build": "tsc",
+    "start": "node dist/server.js"
+  },
+  "dependencies": {
+    "cors": "2.8.5",
+    "express": "4.21.2"
+  },
+  "devDependencies": {
+    "@types/cors": "2.8.5",
+    "@types/express": "4.17.0",
+    "@types/node": "20.14.12",
+    "tsx": "4.17.0",
+    "typescript": "5.6.3"
+  }
+}
